@@ -1,0 +1,17 @@
+  .content {
+    width: 70%;
+    margin:110px auto auto auto;;
+    min-height: 300px;
+  }
+
+  .content p {
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 0.875rem;
+    line-height: 1.7;
+    color: #777777;
+  }
+
+  .content img {
+    max-width: 800px;
+    margin-bottom: 3rem;
+  }
