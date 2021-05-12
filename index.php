@@ -8,6 +8,7 @@
     
     <link rel="stylesheet" href="./css/content.css"/>
     <link rel="stylesheet" href="./css/footer.css" />
+    <link rel="stylesheet" href="./css/imagem_alerta.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel ="stylesheet"/>
     <link rel="preconnect" href="https://fonts.gstatic.com">
