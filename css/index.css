@@ -1,3 +1,38 @@
 * {
-    color:red;
+  color: red;
+}
+
+/* Footer */
+footer {
+  background-color: #111111;
+  padding: 5rem 0px;
+  text-align: center;
+}
+
+.row {
+  display: flex;
+}
+
+h5 {
+  color: #fafafa;
+  font-family: "Raleway", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 0.9375rem !important;
+
+  padding-bottom: 1.6rem;
+}
+
+.social i {
+  margin: 0 12px;
+  color: white;
+  font-size: 35px;
+}
+
+.social a:hover {
+  text-decoration: none;
+}
+
+.social i:hover {
+  filter: invert(40%) grayscale(100%) brightness(65%) sepia(100%)
+    hue-rotate(-50deg) saturate(400%) contrast(2);
 }
