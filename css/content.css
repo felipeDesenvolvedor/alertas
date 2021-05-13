@@ -4,6 +4,10 @@
   padding: 4rem 0;
 }
 
+.content_container {
+  padding-top: 100px;
+}
+
 .content p {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
   font-size: 0.875rem;

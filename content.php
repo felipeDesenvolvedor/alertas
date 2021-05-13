@@ -1,4 +1,4 @@
-<section class="content">
+<section class="content content_container">
     <?php 
         $ecommerce  = isset($_GET['ecommerce']) ? $_GET['ecommerce'] : "";
         $codPedido  = isset($_GET['CodPedido']) ? $_GET['CodPedido'] : "";
