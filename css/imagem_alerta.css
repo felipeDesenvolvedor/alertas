@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;700&display=swap");
+
+#fundo {
+  max-width: 800px;
+  height: 1067px;
+  background: #ff5811;
+  position: relative;
+  z-index: -1;
+  padding: 8px 16px;
+  background: url(../assets/Alerta-ecommerce-fundo.png);
+  background-size: cover;
+  margin: 0 auto;
+}
+
+#text {
+  color: white;
+  font-size: 1.3rem;
+  text-align: center;
+  font-family: "Comfortaa";
+}
+
+#fundo h1 {
+  padding: 16px 0;
+  font-weight: 400;
+}
+
+#fundo strong {
+  font-weight: 400;
+}
+
+#fundo h2 {
+  padding: 3px;
+  border: 1px solid white;
+  box-shadow: inset 0 0 0.2em white, 0 0 0.2em white;
+  font-weight: 300;
+}
+
+#fundo h3 {
+  font-weight: 300;
+  text-align: left;
+  padding: 0 16px;
+  margin-bottom: 32px;
+}
+
+#fundo h3:last-of-type {
+  margin-bottom: 8px;
+}
+
+#fundo h4 {
+  font-weight: 300;
+  margin-top: 0;
+  padding: 0;
+}
+
+#barra-azul {
+  width: 100%;
+  height: 165px;
+  position: absolute;
+  z-index: 1;
+  background: #0cb1b5;
+  bottom: 0;
+  left: 0;
+}
+
+#monitor {
+  width: 50%;
+  position: absolute;
+  left: 25%;
+  bottom: 50%;
+}
+
+#celular {
+  width: 17%;
+  position: absolute;
+  bottom: 30%;
+  left: 15%;
+}
+
+#logo {
+  width: 22%;
+  position: absolute;
+  left: 50%;
+  bottom: 10%;
+  transform: translate(-50%);
+}
